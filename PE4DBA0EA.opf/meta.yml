@@ -1,0 +1,30 @@
+id: PE4DBA0EA
+initial_creation_type: input
+source_metadata:
+  title: Khandro Tsering Chödrön Series
+  language: de
+  description: 'Texts related to Khandro Tsering Chödrön (mkha'' ''gro tshe ring chos
+    sgron, 1929–2011), spiritual consort of Jamyang Khyentse Chökyi Lodrö:'
+  volume:
+    ce0d1ae85fc64a5caf33f7d208b444f9:
+      title: 'Beautiful String of Jewels: A Heart Advice'
+      parent: Advice
+    9072cc06fddf49f1b0bf66724fd71e52:
+      title: Khandro's Plea
+      parent: Advice
+    ab8c4cbacea54952b7bc3e75aafaae66:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö and Khandro
+        Tsering Chödrön
+      parent: Long Life Prayers
+    75368ddd700f48cf87ceb03ab8647ecd:
+      title: Prayer for the Long Life of Khandro Tsering Chödrön
+      parent: Long Life Prayers
+    827c7da6d6f343689dbd3ea89c9d035f:
+      title: Prayer to Khandro Tsering Chödrön
+      parent: Prayers
+    f1993da16f1341f4b71f4a6a79bc20e8:
+      title: 'Cymbals to Invoke a Compassionate Response: A Prayer for Swift Rebirth
+        of Khandro Tsering Chödrön'
+      parent: Swift Rebirth Prayers
+created_at: '2022-03-01T00:17:36.399856'
+last_modified_at: '2022-03-01T00:17:36.399858'
